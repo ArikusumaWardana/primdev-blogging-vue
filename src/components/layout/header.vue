@@ -3,7 +3,8 @@ import { ref } from 'vue';
  const routerItems = ref ([
   {name: 'Home', route: '/'},
   {name: 'About', route: '/about'},
-  {name: 'Dashboard', route: '/dashboard'}
+  {name: 'Dashboard', route: '/dashboard'},
+  
  ]);
 </script>
 
